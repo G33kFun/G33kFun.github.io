@@ -2,8 +2,8 @@ name: Geek Fun
 markdown: redcarpet
 highlighter: true
 permalink: /:year/:month/:title/
-ssl: #true
-url: https://miteshshah.github.io
+ssl: #
+url: https://g33kfun.github.io
 # Site owner
 owner:
   name: Mitesh Shah
