@@ -9,9 +9,15 @@
     <meta name="keywords" content="jekyll, image gallery, image grid, template, masonry" />
     <meta name="author" content="Nii Adjetey Sowah" />
 
-    <link rel="stylesheet" type="text/css" href="/css/demo.css" />
-    <link rel="stylesheet" type="text/css" href="/css/component.css" />
-    <script src="/js/modernizr.custom.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://miteshshah.github.io/css/demo.css" />
+    <link rel="stylesheet" type="text/css" href="https://miteshshah.github.io/css/component.css" />
+    <script src="https://miteshshah.github.io/js/modernizr.custom.js"></script>
+    
+      <!-- redirect users to the https version of the production website.-->
+       <script type="text/javascript">
+        if (window.location.protocol != "https:")
+          window.location = window.location.toString().replace(/^http:/, "https:");
+      </script>
     
   </head>
   <body>
@@ -91,10 +97,10 @@
 
 
 
-    <script src="/js/imagesloaded.pkgd.min.js"></script>
-    <script src="/js/masonry.pkgd.min.js"></script>
-    <script src="/js/classie.js"></script>
-    <script src="/js/cbpGridGallery.js"></script>
+    <script src="https://miteshshah.github.io/js/imagesloaded.pkgd.min.js"></script>
+    <script src="https://miteshshah.github.io/js/masonry.pkgd.min.js"></script>
+    <script src="https://miteshshah.github.io/js/classie.js"></script>
+    <script src="https://miteshshah.github.io/js/cbpGridGallery.js"></script>
     <script>
       new CBPGridGallery( document.getElementById( 'grid-gallery' ) );
     </script>

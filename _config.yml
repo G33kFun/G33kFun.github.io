@@ -2,7 +2,7 @@ name: Geek Fun
 markdown: redcarpet
 highlighter: true
 permalink: /:year/:month/:title/
-ssl: true
+ssl: #true
 url: https://miteshshah.github.io
 # Site owner
 owner:
