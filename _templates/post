@@ -1,7 +1,0 @@
----
-layout: default
-date: {{ date }}
-photo:
-caption_header: {{ title }}
-caption: {{ title }}
----

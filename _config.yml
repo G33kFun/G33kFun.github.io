@@ -1,37 +1,19 @@
-name: Geek Fun
-markdown: redcarpet
-highlighter: true
-permalink: /:year/:month/:title/
-ssl: #
-url: https://g33kfun.github.io
-# Site owner
-owner:
-  name: Mitesh Shah
-  gravatar: c66f52f78607be93acdf5904c88066ee
-  bio: "Linux System Administrator"
-  email: Mr.Miteshah@gmail.com
-  disqus-shortname: MiteshShah
-  twitter: MiteshShah05
-  facebook:
-  google:
-    plus: MiteshShah
-    analytics: UA-68674518-1
-    verify: FoXagY8w0AGl6VevPdl9TSY2iEl0MVKdxXfmBSxDeYg
-    ad-client: ca-pub-6968542502687754
-    ad-slot: 2903128824
-  bing-verify: 26843270EDBB68F6D6D696C81DF38DC2
-  github: MiteshShah
-  stackoverflow: 2199313/Mitesh-Shah
-  linkedin: MiteshShah05
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
+permalink: /:categories/:title.html
+url: "http://pasindud.github.io"
+full_name: "Pasindu De Silva"
+first_name: "Pasindu"
+last_name: "De Silva"
+blog_title: "Pasindu's Land"
+author_img_name_path: "/images/users/pasindu.jpg"
+disqus_shortname: "pasinduland"
+copyright_year: "2014"
+google_analytics_code: "UA-56350372-1"
+aboutme: "A net junkie love programming , sport and tv shows"
+twitter: "Ghosteyes1"
+github: "pasindud"
+facebook: "mepasindu"
+linkined_url: ""
+exclude:
+- README.md
+- Rakefile
+- post.sh
