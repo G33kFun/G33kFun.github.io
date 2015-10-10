@@ -1,0 +1,13 @@
+---
+layout: blog
+title: {{ title }}
+category: blog
+tags: [Geek]
+summary:
+date: {{ date }}
+image:
+  url: 
+  alt: {{ title }}
+  title: {{ title }}
+---
+<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
