@@ -1,0 +1,18 @@
+---
+layout: blog
+title: Geek Kid
+category: blog
+tags: [Geek]
+summary:
+date: 2015-10-11T02:08:52+05:30
+image:
+  url: https://cloud.githubusercontent.com/assets/1223371/10413130/f399f79e-6fbc-11e5-8a96-47301f6067c0.jpg
+  alt: Geek Kid
+  title: Geek Kid
+---
+
+<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
+![geek baby nerd](https://cloud.githubusercontent.com/assets/1223371/10413132/f39aaf54-6fbc-11e5-9224-5f5dc42eb535.jpg)
+![geek baby beta](https://cloud.githubusercontent.com/assets/1223371/10413133/f39b49d2-6fbc-11e5-8059-06583263241d.jpg)
+![geek baby chalkboard](https://cloud.githubusercontent.com/assets/1223371/10413131/f39a36be-6fbc-11e5-81a8-ca09d6c07d9f.jpg)
+![geek baby smartphone](https://cloud.githubusercontent.com/assets/1223371/10413134/f39e4f74-6fbc-11e5-97dd-7631914a9dba.jpg)
