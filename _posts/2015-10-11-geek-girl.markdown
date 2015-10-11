@@ -1,0 +1,14 @@
+---
+layout: blog
+title: Geek Girl
+category: blog
+tags: [Geek]
+summary:
+date: 2015-10-11T18:45:55+05:30
+image:
+  url: https://cloud.githubusercontent.com/assets/1223371/10416901/3b0890e6-7048-11e5-8ebb-d46044688520.jpeg
+  alt: Geek Girl
+  title: Geek Girl
+---
+
+<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
