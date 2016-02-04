@@ -11,6 +11,6 @@ image:
   title: When you Fix bug in Production
 ---
 
-<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
-<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">When you fix a bug in production. <a href="https://t.co/GmO4AOjDFC">pic.twitter.com/GmO4AOjDFC</a></p>&mdash; MiteshShah (@MiteshShah05) <a href="https://twitter.com/MiteshShah05/">December 13, 2015</a></blockquote>
+<blockquote class="twitter-video" data-lang="en"><p lang="en" dir="ltr">When you fix a bug in production. <a href="https://t.co/GmO4AOjDFC">pic.twitter.com/GmO4AOjDFC</a></p>&mdash; MiteshShah (@MiteshShah05) <a href="https://twitter.com/JonathanDeMoor/status/676027065171316737">December 13, 2015</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
