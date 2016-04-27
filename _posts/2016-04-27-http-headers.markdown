@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: X-Powered-By: Electricity
+title: Funny HTTP Headers
 category: blog
-tags: [Geek, HTTP, Header]
+tags: [Geek, Http Headers]
 summary:
 date: 2016-04-27T14:07:27+05:30
 image:
