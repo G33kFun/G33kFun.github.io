@@ -1,0 +1,12 @@
+---
+layout: blog
+title: Free Wifi
+category: blog
+tags: [Geek]  
+summary: Free Wifi
+date: 2016-12-26T01:15:29+05:30
+image:
+  url: http://3.bp.blogspot.com/-X3I3uwr086w/UtwL54G4YMI/AAAAAAAA2Fc/Fl4fpUl78lY/s1600/funny-sign-180-001.jpg
+  alt: Free Wifi
+  title: Free Wifi
+---
