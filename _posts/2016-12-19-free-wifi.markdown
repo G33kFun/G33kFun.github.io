@@ -10,3 +10,5 @@ image:
   alt: Free Wifi
   title: Free Wifi
 ---
+
+<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
