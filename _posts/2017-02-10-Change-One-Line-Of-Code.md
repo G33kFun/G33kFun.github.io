@@ -11,3 +11,4 @@ image:
   title: Change One Line Of Code
 ---
 
+<img src="{{ page.image.url }}" alt="{{ page.image.alt }}" title="{{ page.image.title }}">
